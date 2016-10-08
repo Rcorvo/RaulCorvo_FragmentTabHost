@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="865c8d097c494792b3ae63e54c942d9aefe0d568">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52bf260bfc1d0e557852b999e1bb1dc06756f0a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c90ad1e89d461d9d2a67145587e2532895a91d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1848fd85a618c26386422a318c41f748d6839e35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9e41f35ce14ebfdd4c7e67ba589761b1b9c3c8b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_406f8c249bea205dc0db8282d04e68ce7cfaa07c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3cb8a4dca98643013c7da4d1a7845b4412cbeea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c640fad90a6be390414cc0adea61c810916bcfdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e8e9aa31532f96b0aae13fc61b507b36b56c0eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_fe34804f6d8b90bc518cd84162519d2be1ab9e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7dacb67b995a3b22e769935a7b7b1195ea697f82">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_372385eedc850d84d50b953af80e4767c8599a04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_33316d1aedc47f0e97d062786416bace7807afdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_17c42cf70cea407882d599e8e13552edbdc2c388\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_46b77dd87c85269bf3ce8209593d891feffc59fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_5b640d5077c4d8c4f7e4804f89dd32817dee2975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e4a7d05eca045335dad20aa692c3f0901748ed39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d1042be1099a6d8f32cfc17a5d05216935060b3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\FragmentTabHost\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_19be9addf9f1d96b08649d0bbf3f076aa5f43cf1\classes.dex" />
+    </item>
+
+</items>
